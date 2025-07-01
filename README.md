@@ -1,2 +1,2 @@
 # flask_authenticate_ex
-aprendendo a fazer uma api de autenticação
+Objetivo: Aprendendo a fazer uma api de autenticação com um banco de dados
